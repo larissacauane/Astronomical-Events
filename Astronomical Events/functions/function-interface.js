@@ -8,6 +8,7 @@ const print_meteor_shower = (list_meteor) => {
 
 const print_iten_meteor_shower = (meteor) => {
     const name = meteor.name.padEnd(27, " ")
+    
     let intensity = return_intensity(meteor.intensity)
     let hemisphere = return_hemisphere(meteor.declination)
 
