@@ -9,7 +9,7 @@
 * Chuvas que podem ser vistas hoje
 * Próximas chuvas.
 
- **Projeto desenvolvido para praticar funções e módulos**
+ **Projeto desenvolvido no <a href="https://www.devmedia.com.br/javascript/">curso de JavaScript da Devmedia</a>**
  
  ## :sparkles: Imagens
 <img src="https://i.pinimg.com/originals/32/9f/36/329f3640558b55a77020e13a105ea2e8.png">
